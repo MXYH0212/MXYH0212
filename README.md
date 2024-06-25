@@ -32,8 +32,6 @@ When all the stars in the night sky are extinguished, all dreams and all streams
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 
-
-
 ### Technologies and Tools:
 
 #### Blockchain:
@@ -80,12 +78,17 @@ When all the stars in the night sky are extinguished, all dreams and all streams
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm)
 
-
-
-
 ## My Github Status
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devguru999&layout=compact&theme=dark)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devguru999&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devguru999&layout=compact&theme=dark)
+
 ### Who can break my visitor count?
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=username.username.badge)
 
+### Connect with me:
+
+[![Gmail](https://img.shields.io/badge/-D14836?style=social&logo=gmail)](mailto:marcosdpeon@gmail.com)
+[![Skype](https://img.shields.io/badge/-00AFF0?style=social&logo=skype)](skype:live:.cid.346839a4bf3aa037?chat)
+[![WhatsApp](https://img.shields.io/badge/-25D366?style=social&logo=whatsapp)](https://wa.me/14134550647)
+[![Telegram](https://img.shields.io/badge/-26A5E4?style=social&logo=telegram)](https://t.me/Sspeedily)
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/marcos-peon-42ab44294/)
