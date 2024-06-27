@@ -4,7 +4,7 @@ When all the stars in the night sky are extinguished, all dreams and all streams
 
 ### My GitHub Profile Trophy
 
-![](https://github-profile-trophy.vercel.app/?username=devguru999&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=devguru999&title=MultiLanguage,Commits,Repositories,Stars,Followers)
 
 ### Languages and Tools:
 
